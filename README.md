@@ -237,9 +237,9 @@ Runstory는 말그대로 “**달리는 이야기**”입니다.
 
 ![image](https://user-images.githubusercontent.com/68771699/219030382-50a6ba25-a08b-4dfe-8669-71172db7c59f.png)
 
-![image](https://user-images.githubusercontent.com/68771699/219032463-5c5ee6b5-bdc9-4e03-b34c-e23ed84b669a.png)
-
 ![image](https://user-images.githubusercontent.com/68771699/219031857-62a6b8cd-e531-4c8f-8886-67c0b5f2d693.png)
+
+![image](https://user-images.githubusercontent.com/68771699/219032463-5c5ee6b5-bdc9-4e03-b34c-e23ed84b669a.png)
 
 
 ## 📂 9. 프로젝트 파일 구조
